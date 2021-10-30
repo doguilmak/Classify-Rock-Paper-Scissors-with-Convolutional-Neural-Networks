@@ -7,7 +7,7 @@ The purpose of the task is **classify paper, rock and scissor** from hand pictur
 
 ## Dataset
 
-The dataset was downloaded from the [Kaggle](https://www.kaggle.com/sanikamal/rock-paper-scissors-dataset). There are a total of **372 different pictures in 3 different folders (classes)** in the ***test*** file. In the ***train*** file, there are **3 different folders** representing 3 different classes and a total of **2520 pictures**.
+The dataset was downloaded from the [Kaggle](https://www.kaggle.com/sanikamal/rock-paper-scissors-dataset). There are a total of **372 different pictures in 3 different folders (classes)** in the ***test*** file. In the ***train*** file, there are **3 different folders** representing 3 different classes and a total of **2520 pictures**. **If you want to get train and test folders, please click on the Kaggle link and download it. You need to sign in to Kaggle to download them.**
 
 ## Methodology
 
@@ -52,7 +52,9 @@ The system was tested on **9 different photos representing 3 different classes i
 ***Prediction of paper class:***
 
 [[0. 1. 0.]]
+
 [[1. 0. 0.]]
+
 [[0. 0. 1.]]
 [[0. 0. 1.]]
 [[1. 0. 0.]]
