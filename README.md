@@ -70,6 +70,7 @@ The system was tested on **9 different photos representing 3 different classes i
 [[1. 0. 0.]]
 
 ***Prediction of rock class:***
+
 [[0. 1. 0.]]
 
 [[0. 1. 0.]]
@@ -89,6 +90,7 @@ The system was tested on **9 different photos representing 3 different classes i
 [[0. 1. 0.]]
 
 ***Prediction of scissors class:***
+
 [[0. 0. 1.]]
 
 [[0. 0. 1.]]
