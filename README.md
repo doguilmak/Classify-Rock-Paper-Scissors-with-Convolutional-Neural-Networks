@@ -52,6 +52,7 @@ The system was tested on **9 different photos representing 3 different classes i
 ***Prediction of paper class:***
 
 > [[0. 1. 0.]] 
+> 
 > [[1. 0. 0.]] 
 > [[0. 0. 1.]] 
 > [[0. 0. 1.]] 
