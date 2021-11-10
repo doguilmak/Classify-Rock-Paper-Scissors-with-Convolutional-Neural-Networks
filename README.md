@@ -17,15 +17,9 @@ For understanding the methodology you are free to visit the [CNN Explainer](http
 
 ## Analysis
 
-| Layer (type)    | Output Shape |  Param # |
-|--|--|--|
-| conv2d_1 (Conv2D) | (None, 62, 62, 32) | 896
-| max_pooling2d_1 (MaxPooling2 | (None, 31, 31, 32)    | 0
-| conv2d_2 (Conv2D) | (None, 29, 29, 32)  | 9248
-| max_pooling2d_2 (MaxPooling2) | (None, 14, 14, 32)  | 0
-| flatten_1 (Flatten)  | (None, 6272)  | 0
-| dense_1 (Dense)   | (None, 128) | 802944
-| dense_2 (Dense)   | (None, 3)   | 129 
+<p align="center">
+    <img src="input_and_output_model.png"> 
+</p>
 
 > **Total params:** 813,217
 > **Trainable params:** 813,217
