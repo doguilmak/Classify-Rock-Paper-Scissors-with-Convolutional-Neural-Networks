@@ -29,13 +29,9 @@ For understanding the methodology you are free to visit the [CNN Explainer](http
 
 ### Plotting Artificial Neural Networks Accuracy and Loss 
 
-**Model Accuracy**
-
-![classifier_accuracy](Plots/ann_model_accuracy.png)
-
-**Model Loss**
-
-![classifier_loss](Plots/ann_model_loss.png)
+| **Model Accuracy** | **Model Loss** |
+|--|--|
+| ![classifier_accuracy](Plots/ann_model_accuracy.png) | ![classifier_loss](Plots/ann_model_loss.png) |
 
 ---
 
