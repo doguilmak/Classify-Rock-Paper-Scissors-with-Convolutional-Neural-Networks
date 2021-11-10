@@ -17,6 +17,8 @@ For understanding the methodology you are free to visit the [CNN Explainer](http
 
 ## Analysis
 
+Converting CNN keras model (classifier) to dot format and save to a file:
+
 <p align="center">
     <img src="input_and_output_model.png"> 
 </p>
