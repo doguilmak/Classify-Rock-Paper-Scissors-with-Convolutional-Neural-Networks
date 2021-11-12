@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-The purpose of the task is **classify paper, rock and scissor** from hand pictures using supervised machine learning methods (CNNs). With the model trained through pictures, it was tried to predict that the picture in hand was **rock, paper or scissors.**
+The purpose of the task is **classify paper, rock and scissor** from hand pictures using branch of supervised machine learning method; convolutional neural networks (CNNs). With the model trained through pictures, it was tried to predict that the picture in hand was **rock, paper or scissors.**
 
 ## Dataset
 
@@ -11,7 +11,7 @@ The dataset was downloaded from the [Kaggle](https://www.kaggle.com/sanikamal/ro
 
 ## Methodology
 
-For understanding the methodology you are free to visit the [CNN Explainer](https://poloclub.github.io/cnn-explainer/) website. 
+For understanding the methodology of convolutional neural networks, you are free to visit the [CNN Explainer](https://poloclub.github.io/cnn-explainer/) website. 
 
 
 
@@ -29,7 +29,7 @@ Converting CNN keras model (classifier) to dot format and save to a file:
 
 ---
 
-### Plotting Artificial Neural Networks Accuracy and Loss 
+### Plotting Convolutional Neural Network Accuracy and Loss 
 
 | **Model Accuracy** | **Model Loss** |
 |--|--|
